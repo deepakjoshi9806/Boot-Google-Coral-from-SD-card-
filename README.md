@@ -1,1 +1,2 @@
-# Boot-Google-Coral-from-SD-card-
+# Boot-Google-Coral-from-SD-card
+
